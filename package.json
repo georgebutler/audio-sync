@@ -11,11 +11,14 @@
   },
   "dependencies": {
     "lucide-react": "^0.525.0",
+    "music-metadata": "^11.5.0",
+    "music-metadata-browser": "^2.5.11",
     "next": "15.3.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-dropzone": "^14.3.8",
-    "wavesurfer.js": "^7.9.9"
+    "wavesurfer.js": "^7.9.9",
+    "web-streams-polyfill": "^4.1.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
